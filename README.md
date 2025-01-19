@@ -12,7 +12,7 @@
 
   📫 How to reach me: <a href="mailto:aman884623822@gmail.com" style="color: #1E90FF; text-decoration: none; font-weight: bold;">aman884623822@gmail.com</a><br><br>
   
-  📄 <strong>Know about my experiences</strong>: <a href="https://drive.google.com/file/d/1hT9OzEqy6AGdZc0qWB1XZNfE9CTSnDHk/view?usp=drive_link" target="_blank" style="color: #1E90FF; text-decoration: none; font-weight: bold;">View my Resume</a>
+  📄 <strong>Know about my experiences</strong>: <a href="https://drive.google.com/file/d/1VaoQT7c1ZHPAWRHKEdIpsZvTtFJBhCC9/view?usp=drive_link" target="_blank" style="color: #1E90FF; text-decoration: none; font-weight: bold;">View my Resume</a>
 </p>
 
 
