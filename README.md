@@ -111,30 +111,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amancore&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <!-- GitHub Streak Stats - Updated URL -->
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amancore&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<!-- Last Updated -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amancore&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <br>
-  Last Updated: 2025-02-04 07:12:20 UTC
-</p>
-
-### 🎯 Weekly Coding Stats
-
-```text
-JavaScript   12 hrs 30 mins  ███████████░░░░░░░░  45.2%
-React        8 hrs 45 mins   ██████░░░░░░░░░░░░░  31.7%
-Python       4 hrs 15 mins   ███░░░░░░░░░░░░░░░░  15.4%
-C++          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░   7.7%
