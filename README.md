@@ -1,92 +1,117 @@
-<h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A passionate competitive programmer and developer</h3>
-
-
-<h3 align="left" style="font-size: 28px; font-weight: bold; color: #333; margin-bottom: 20px;">About Me</h3>
-<p align="left" style="font-size: 18px; color: #555; line-height: 1.8;">
-  🌱 I’m currently learning <strong style="color: #4CAF50;">React Native, Express.js</strong> and exploring <strong style="color: #FF6347;">Machine Learning</strong>.<br>
-  💻 I have experience in Full Stack Development, focusing on <strong style="color: #4CAF50;">web development</strong> with technologies like <strong style="color: #FF6347;">JavaScript, React and Express.js<br>
-  📚 I've also worked on projects like <strong style="color: #FF6347;">Twitter Sentiment Analysis</strong> using <strong style="color: #4CAF50;">Bidirectional LSTM</strong> and NLP techniques.<br>
-  💼 I’ve been a <strong style="color: #4CAF50;">Competitive Programming Instructor</strong>, guiding students in mastering <strong style="color: #FF6347;">algorithms</strong> and <strong style="color: #4CAF50;">data structures</strong>.<br>
-  🏆 I’ve participated in hackathons like SIH, HackVerse, with overall 5th position from Parul University.<br><br>
-
-  📫 How to reach me: <a href="mailto:aman884623822@gmail.com" style="color: #1E90FF; text-decoration: none; font-weight: bold;">aman884623822@gmail.com</a><br><br>
+<div align="center">
   
-  📄 <strong>Know about my experiences</strong>: <a href="https://drive.google.com/file/d/1VaoQT7c1ZHPAWRHKEdIpsZvTtFJBhCC9/view?usp=drive_link" target="_blank" style="color: #1E90FF; text-decoration: none; font-weight: bold;">View my Resume</a>
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+## I'm Aman, A Developer with a Competitive Edge
+
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2024--02--04-brightgreen)](https://github.com/amancore)
+[![Profile Views](https://komarev.com/ghpvc/?username=amancore&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/amancore)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/amancore)
+
+</div>
+
+<div align="center">
+  
+## 🚀 About Me
+
+<div align="left">
+
+```yaml
+🎯 Current Focus:
+  • Mastering React Native and Express.js
+  • Diving deep into Machine Learning
+  • Building scalable web applications
+
+💼 Experience:
+  • Full Stack Development with JavaScript, React, Express.js
+  • Created Twitter Sentiment Analysis using Bidirectional LSTM
+  • Competitive Programming Instructor
+  • Mentoring in Data Structures & Algorithms
+
+🏆 Achievements:
+  • Smart India Hackathon (SIH) Participant
+  • HackVerse - 5th Position from Parul University
+```  
+📫 Contact:
+  • Email: aman884623822@gmail.com
+  • Resume: [View My Resume](https://drive.google.com/file/d/1VaoQT7c1ZHPAWRHKEdIpsZvTtFJBhCC9/view)
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/amancore">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/chourasia_aman_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.codechef.com/users/amancore">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://www.hackerrank.com/aman8804623822">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://codeforces.com/profile/amancore">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces"/>
+  </a>
+  <a href="https://www.leetcode.com/amancore">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/amancore">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
 </p>
 
+## 💻 Tech Stack
 
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/amancore" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanraj4482" height="30" width="40" style="margin-right: 15px;" />
-  </a>
-  <a href="https://instagram.com/chourasia_aman_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chourasia_aman_" height="30" width="40" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.codechef.com/users/amancore" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amancore" height="30" width="40" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.hackerrank.com/aman8804623822" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aman8804623822" height="30" width="40" style="margin-right: 15px;" />
-  </a>
-  <a href="https://codeforces.com/profile/amancore" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amancore" height="30" width="40" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.leetcode.com/amancore" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amancore__" height="30" width="40" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.hackerearth.com/@aman8804623822" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aman8804623822" height="30" width="40" style="margin-right: 15px;" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/amancore" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amancore" height="30" width="40" style="margin-right: 15px;" />
-  </a>
-  <a href="https://discord.gg/amancore__" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="amancore__" height="30" width="40" style="margin-right: 15px;" />
-  </a>
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=amancore&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak Stats - Updated URL -->
+  <img src="https://streak-stats.demolab.com/?user=amancore&theme=radical" alt="GitHub Streak" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amancore&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<!-- Last Updated -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amancore&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br>
+  Last Updated: 2025-02-04 07:12:20 UTC
 </p>
 
-<h3 align="left" style="font-size: 24px; font-weight: bold; margin-bottom: 20px;">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-</p>
+### 🎯 Weekly Coding Stats
+
+```text
+JavaScript   12 hrs 30 mins  ███████████░░░░░░░░  45.2%
+React        8 hrs 45 mins   ██████░░░░░░░░░░░░░  31.7%
+Python       4 hrs 15 mins   ███░░░░░░░░░░░░░░░░  15.4%
+C++          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░   7.7%
