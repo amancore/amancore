@@ -31,9 +31,33 @@
   • Smart India Hackathon (SIH) Participant
   • HackVerse - 5th Position from Parul University
 ```  
-📫 Contact:
-  • Email: aman884623822@gmail.com
-  • Resume: [View My Resume](https://drive.google.com/file/d/1VaoQT7c1ZHPAWRHKEdIpsZvTtFJBhCC9/view)
+<div align="center">
+  <h2> 📬 Reach Out & Connect </h2>
+</div>
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Gmail-aman884623822%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman884623822@gmail.com)
+  [![Resume](https://img.shields.io/badge/Resume-View%20CV-2EA043?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1VaoQT7c1ZHPAWRHKEdIpsZvTtFJBhCC9/view)
+  
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-40C057?style=flat-square&logo=googlecalendar&logoColor=white" alt="Status"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Location-India-0B3954?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Last%20Updated-2024--02--04-4C75A1?style=flat-square&logo=github&logoColor=white" alt="Updated"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -95,7 +119,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amancore&show_icons=true&theme=radical" alt="GitHub Stats" />
   
   <!-- GitHub Streak Stats - Updated URL -->
-  <img src="https://streak-stats.demolab.com/?user=amancore&theme=radical" alt="GitHub Streak" />
   
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amancore&layout=compact&theme=radical" alt="Top Languages" />
