@@ -17,19 +17,21 @@
 
 ```yaml
 🎯 Current Focus:
-  • Mastering React Native and Express.js
-  • Diving deep into Machine Learning
-  • Building scalable web applications
+• Java + Spring Boot
+• Angular / React
+• Python + GenAI
+• Data Engineering fundamentals
+• Currently working on projects as part of HashedIn internship training
 
 💼 Experience:
-  • Full Stack Development with JavaScript, React, Express.js
-  • Created Twitter Sentiment Analysis using Bidirectional LSTM
-  • Competitive Programming Instructor
-  • Mentoring in Data Structures & Algorithms
+• Full Stack Development (Java, Spring Boot, React/Angular)
+• Hands-on project building during structured training
+• Strong foundation in Data Structures & Algorithms
 
 🏆 Achievements:
   • Smart India Hackathon (SIH) Participant
   • HackVerse - 5th Position from Parul University
+  • Codex (CP) - 2th Position from Parul University
 ```  
 <div align="center">
   <h2> 📬 Reach Out & Connect </h2>
