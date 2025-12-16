@@ -17,16 +17,16 @@
 
 ```yaml
 🎯 Current Focus:
-• Java + Spring Boot
-• Angular / React
-• Python + GenAI
-• Data Engineering fundamentals
-• Currently working on projects as part of HashedIn internship training
+  • Java + Spring Boot
+  • Angular / React
+  • Python + GenAI
+  • Data Engineering fundamentals
+  • Currently working on projects as part of HashedIn internship training
 
 💼 Experience:
-• Full Stack Development (Java, Spring Boot, React/Angular)
-• Hands-on project building during structured training
-• Strong foundation in Data Structures & Algorithms
+  • Full Stack Development (Java, Spring Boot, React/Angular)
+  • Hands-on project building during structured training
+  • Strong foundation in Data Structures & Algorithms
 
 🏆 Achievements:
   • Smart India Hackathon (SIH) Participant
